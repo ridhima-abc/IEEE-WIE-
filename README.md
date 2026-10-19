@@ -18,6 +18,31 @@ This project uses machine learning to classify SMS messages as **Spam** or **Ham
 **Source:** [UCI SMS Spam Collection](https://archive.ics.uci.edu/dataset/228/sms+spam+collection)
 
 The dataset contains SMS messages labelled as `spam` or `ham`.
+## Dataset
+* [Link to Dataset](PASTE_YOUR_LINK_HERE) - Brief description of the dataset used.
+
+## Setup Instructions
+1. Clone this repository: 
+   ```bash
+   git clone https://github.com
+   ```
+2. Install required libraries:
+   ```bash
+   pip install pandas numpy scikit-learn jupyter
+   ```
+3. Open the notebook:
+   ```bash
+   jupyter notebook spam_sms.ipynb
+   ```
+
+## Results
+* **Model 1 Accuracy/F1-Score:** [Insert Score]
+* **Model 2 Accuracy/F1-Score:** [Insert Score]
+* Brief comparison or performance summary here.
+
+## Conclusion
+* Summarize what you learned or which model performed best for SMS spam detection.
+
 
 ## Technologies Used
 
